@@ -30,4 +30,4 @@ client.on('message', message => {
 client.on('ready', () => console.log('Launched!'));
 
 //Discord Login
-client.login(process.env.NDcwMDA4MTY3ODI5NDcxMjQy.DjTZlw.riiXXy6mXlaIC7aUIYyqmBcjJrs);
+client.login(process.env.NDcwMDA4MTY3ODI5NDcxMjQy.DjTd4A.3N53nUi-OKgvAaV2VwpabnPswn4);
