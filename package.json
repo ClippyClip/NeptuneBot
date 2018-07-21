@@ -1,0 +1,8 @@
+{
+  "author": {
+    "name": "Clippy"
+  },
+  "description": "NeptuneBot",
+  "main": "server.js",
+  "name": "NeptuneBot",
+  "version": "0.0.0"
